@@ -1,0 +1,31 @@
+/* style.css */
+
+/* general style */
+
+.heading1{
+    background-color: #025702;
+    color: white;
+    text-align: center;
+    padding: 12px 28px;
+    border-radius: 8px;
+
+}
+
+.heading2 {
+    background-color: #025702;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+/* soup */
+
+.nettle-soup-img {
+    width: 500px;
+    height: auto;
+
+}
+
+/* gnocchi */
+
+/* pesto */
