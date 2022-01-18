@@ -2,6 +2,12 @@
 
 /* general style */
 
+.home-button {
+    color: white;
+    background-color: #025702;
+    border-radius: 15%;
+}
+
 .heading1{
     background-color: #025702;
     color: white;
